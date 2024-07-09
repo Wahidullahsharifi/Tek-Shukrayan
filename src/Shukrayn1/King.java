@@ -7,5 +7,6 @@ public class King {
         System.out.println("Hellow Wrold");
 
 
+
     }
 }
