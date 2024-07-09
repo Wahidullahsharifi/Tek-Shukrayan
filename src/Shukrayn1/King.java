@@ -6,6 +6,9 @@ public class King {
 
         System.out.println("Hellow Wrold");
 
+        System.out.println("Altaf So you like him ");
+
+
 
 
 
