@@ -9,5 +9,7 @@ public class Altaf {
 
         System.out.println("I don't know");
 
+        System.out.println("whatever");
+
     }
 }
