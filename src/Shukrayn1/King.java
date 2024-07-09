@@ -8,6 +8,9 @@ public class King {
 
         System.out.println("Altaf So you like him ");
 
+        System.out.println("today is Monday");
+
+
 
 
 
