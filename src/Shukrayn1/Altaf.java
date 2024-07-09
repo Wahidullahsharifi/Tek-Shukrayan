@@ -6,5 +6,8 @@ public class Altaf {
 
 
         System.out.println("Java was very hard");
+
+        System.out.println("I don't know");
+
     }
 }
